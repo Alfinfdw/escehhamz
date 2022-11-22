@@ -45,8 +45,8 @@ global.botname = '[⫹⫺ - 𝐒𝐇𝐈𝐍𝐓𝐘𝐀 𝐄𝐑𝐑𝐎𝐑 �
 global.footer = 'Sʜɪɴᴛʏᴀ ɪɴғɪɴɪᴛᴇϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283112471048']
-global.premium = ['6283112471048']
+global.owner = ['6285852939370']
+global.premium = ['6285852939370']
 global.packname = 'Sʜɪɴᴛʏᴀ ɪɴғɪɴɪᴛᴇ ϟ'
 global.ownerr = ['Sʜɪɴᴛʏᴀ ɪɴғɪɴɪᴛᴇ ダフ️']
 global.author = '[⫹⫺ - 㑒 𝐒𝐡𝐧𝐧𝐭𝐲𝐚 - 𝐓𝐳𝐲 ϟ〽️]'
